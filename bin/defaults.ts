@@ -23,7 +23,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
 export const DEFAULT_DEV_PAKE_OPTIONS: PakeCliOptions & {url: string} = {
   ...DEFAULT_PAKE_OPTIONS,
   url: 'https://yt567.xyz',
-  name: '壹图阁',
+  name: YImage'',
   safeDomain:['yt567.xyz'],
   transparent: true,
 }
