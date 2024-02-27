@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "壹图阁",
+    "productName": "YImage",
     "version": "1.0.0"
   },
   "tauri": {
